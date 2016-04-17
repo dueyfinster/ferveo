@@ -1,5 +1,10 @@
 {
-  "name"    : "ferveo",
-  "version" : "0.1.0",
-  "main"    : "main.js"
+  "name": "ferveo",
+  "version": "0.1.0",
+  "main": "app/main.js",
+  "devDependencies": {
+    "electron-packager": "^6.0.2",
+    "electron-prebuilt": "^0.37.6",
+    "gulp": "^3.9.1"
+  }
 }

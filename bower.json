@@ -1,0 +1,22 @@
+{
+  "name": "ferveo",
+  "description": "",
+  "main": "main.js",
+  "authors": [
+    "Neil Grogan <neil@ngrogan.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/dueyfinster/ferveo",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "4",
+    "jquery": "~2.2.3"
+  }
+}
